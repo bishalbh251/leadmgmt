@@ -1,0 +1,7 @@
+.error{
+    border-color: #dd4b39;
+    box-shadow: none;
+}
+label.error{
+	display: none !important;
+}
