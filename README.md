@@ -1,4 +1,4 @@
-# leadmgmt
+# Leads management System
 This is a lead management system for Islington College.
 This system has two user interfaces one for the counselor and other for the manager.
 
