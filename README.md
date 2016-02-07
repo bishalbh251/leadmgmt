@@ -1,5 +1,5 @@
 # Leads management System
-This is a lead management system for Islington College.
+This is a lead management system for Islington College which is developed using the MINI framework in PHP.
 This system has two user interfaces one for the counselor and other for the manager.
 
 Counselor:
